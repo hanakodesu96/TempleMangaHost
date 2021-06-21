@@ -7,7 +7,7 @@
   "chapters": {
     "44": {
       "title": "Priority",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Hanako Desu Scan": "/proxy/api/imgur/chapter/EcfrpLc/"
       },
@@ -15,9 +15,17 @@
     },
     "44.5": {
       "title": "Amazake",
-      "volume": "",
+      "volume": "5",
       "groups": {
         "Hanako Desu Scan": "/proxy/api/imgur/chapter/j17lqRw/"
+      },
+      "last_updated": "1617647881"
+    },
+    "44.6": {
+      "title": "Vol 5 Extras",
+      "volume": "5",
+      "groups": {
+        "Hanako Desu Scan": "/proxy/api/imgur/chapter/Fm1pubk/"
       },
       "last_updated": "1617647881"
     },
